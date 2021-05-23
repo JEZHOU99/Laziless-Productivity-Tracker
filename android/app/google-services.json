@@ -1,0 +1,65 @@
+{
+  "project_info": {
+    "project_number": "510511577536",
+    "firebase_url": "https://laziless-cf1d0.firebaseio.com",
+    "project_id": "laziless-cf1d0",
+    "storage_bucket": "laziless-cf1d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510511577536:android:e5282fabe20c6343d07025",
+        "android_client_info": {
+          "package_name": "com.hourglass.laziless"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510511577536-39tehbghchivra684u5hvoahkbh0geul.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hourglass.laziless",
+            "certificate_hash": "3efdde1cfcb26226856bfd1422b75a0111af977a"
+          }
+        },
+        {
+          "client_id": "510511577536-k50uhaj7klrv3r3inaakujj22mufnei2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hourglass.laziless",
+            "certificate_hash": "2d9e736504bd89c3bf3207a1e422238cfc8588a4"
+          }
+        },
+        {
+          "client_id": "510511577536-ievhrkdmlsf95q25oho9k30tjes84hvg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hourglass.laziless",
+            "certificate_hash": "448de1bf395b0a8f9c91440d8e9089db82e8ad4c"
+          }
+        },
+        {
+          "client_id": "510511577536-tsulcfireottcgnrf91l99b3rkir5721.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc3iOOO1cxmwfNDNz54XWg5i-W3ho1POM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510511577536-tsulcfireottcgnrf91l99b3rkir5721.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7238784760563529~2168508668"
+    }
+  ],
+  "configuration_version": "1"
+}
